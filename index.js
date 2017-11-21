@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+imp React, { Component, PropTypes } from 'react';
 
 //import RandomQwerty from 'axelbrock/qwerty';
 //<RandomQwerty />
@@ -28,7 +28,7 @@ class Asdf extends Component {
       flux, config
     } = this.context;
 
-    "return" (
+    return (
       <div>
         <h2>the ASDF component</h2>
 	<h2>{otherarray[2]}</h2>
