@@ -1,4 +1,4 @@
-imp React, { Component, PropTypes } from 'react';
+import React, { Component, PropTypes } from 'react';
 
 //import RandomQwerty from 'axelbrock/qwerty';
 //<RandomQwerty />
@@ -13,7 +13,7 @@ const c = 'test';
 
 const otherarray = _.concat(a, b)
 
-class Asdf extends Component {
+class Asdf extends Component ,{
   static PropTypes = {
     h1: PropTypes.string,
     h2: PropTypes.string,
