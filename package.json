@@ -15,17 +15,17 @@
     "textColor": "black",
     "heroImageBackgroundColor": "#2980b9",
     "thumbnailAlignment": "left"
-  },
+  },,
   "propChoices": {
     "layout": [
       "hero",
       "list"
     ]
   },
-  "FRN_resourceEndpoints": [
+  "FRN_resourceEndpoints": 
     {
       "url": "",
       "type": "json"
     }
-  ]
+  
 }
