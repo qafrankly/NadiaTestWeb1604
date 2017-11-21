@@ -1,15 +1,15 @@
-import React, { Component, PropTypes } from 'react'
+import React, { Component, PropTypes } from 'react';
 
 //import RandomQwerty from 'axelbrock/qwerty';
 //<RandomQwerty />
 
-import _ from 'lodash'
+import _ from 'lodash';
 
 import Dep from './dep'
 
-const a = [1];
-const b = [2,3];
-const c = 'test';
+const a = [1]
+const b = [2,3]
+const c = 'test'
 
 const otherarray = _.concat(a, b)
 
