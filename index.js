@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+impo React, { Component, PropTypes } from 'react';
 
 //import RandomQwerty from 'axelbrock/qwerty';
 //<RandomQwerty />
