@@ -1,9 +1,9 @@
-import React, { Component, PropTypes } from 'react';
+import React, { Component, PropTypes } from 'react'
 
 //import RandomQwerty from 'axelbrock/qwerty';
 //<RandomQwerty />
 
-import _ from 'lodash';
+import _ from 'lodash'
 
 import Dep from './dep'
 
