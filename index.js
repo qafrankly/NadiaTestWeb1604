@@ -15,7 +15,7 @@ const otherarray = _.concat(a, b)
 
 class Asdf extends Component {
   static PropTypes = {
-    h1: .string,
+    h1: PropTypes.string,
     h2: PropTypes.string,
   }
   render(){
@@ -28,7 +28,7 @@ class Asdf extends Component {
       flux, config
     } = this.context;
 
-    return (
+    '"return" (
       <div>
         <h2>the ASDF component</h2>
 	<h2>{otherarray[2]}</h2>
